@@ -1,0 +1,391 @@
+573026592764 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573205104637 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573026592764 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573205104637 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573026592764 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573205104637 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573026592764 - Error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x00FCFBEE]
+	(No symbol) [0x01063BDE]
+	(No symbol) [0x0107DFE9]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573205104637 - Error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x00FCFBEE]
+	(No symbol) [0x01063BDE]
+	(No symbol) [0x0107DFE9]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573026592764 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573205104637 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573026592764 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573205104637 - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011BD363+60275]
+	GetHandleVerifier [0x011BD3A4+60340]
+	(No symbol) [0x00FF06F3]
+	(No symbol) [0x01038690]
+	(No symbol) [0x01038A2B]
+	(No symbol) [0x01080EE2]
+	(No symbol) [0x0105D0D4]
+	(No symbol) [0x0107E6EB]
+	(No symbol) [0x0105CE86]
+	(No symbol) [0x0102C623]
+	(No symbol) [0x0102D474]
+	GetHandleVerifier [0x01408FE3+2467827]
+	GetHandleVerifier [0x014045E6+2448886]
+	GetHandleVerifier [0x0141F80C+2560028]
+	GetHandleVerifier [0x011D3DF5+153093]
+	GetHandleVerifier [0x011DA3BD+179149]
+	GetHandleVerifier [0x011C4BB8+91080]
+	GetHandleVerifier [0x011C4D60+91504]
+	GetHandleVerifier [0x011AFA10+4640]
+	BaseThreadInitThunk [0x75E0FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x774C82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x774C827E+238]
+
+573026592764 - Error: 'NoneType' object has no attribute 'click'
+573205104637 - Error: 'NoneType' object has no attribute 'click'
+573026592764 - Error: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://web.whatsapp.com/send?phone=573026592764", waiting until "load"
+
+573205104637 - Error: Page.goto: Target page, context or browser has been closed
+573026592764 - Error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[aria-label='Adjuntar']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[aria-label='Adjuntar']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[aria-label='Adjuntar']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[aria-label='Adjuntar']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[aria-label='Adjuntar']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("button[aria-label='Adjuntar']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[title='Mensajes']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[title='Mensajes']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[title='Mensajes']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[title='Mensajes']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573026592764 - Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+
+573205104637 - Error: Page.wait_for_selector: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("span[data-icon='clip']") to be visible
+

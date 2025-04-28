@@ -106,3 +106,333 @@ Phone Number: +573205104637
 Image: reportesW_pdf\Andres.jpg
 Caption: Buenas tardes Andres, este es el reporte de las facturas que faltaron ayer 📄
 --------------------
+Date: 23/4/2025
+Time: 13:54
+Phone Number: +573134816011
+Image: reportes_asesores\Cristian.jpg
+Caption: Hola Cristian, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 13:54
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Hola Andres, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 13:58
+Phone Number: +573134816011
+Image: reportes_asesores\Cristian.jpg
+Caption: Hola Cristian, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 13:59
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Hola Andres, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 14:3
+Phone Number: +573134816011
+Image: reportes_asesores\Cristian.jpg
+Caption: Hola Cristian, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 14:3
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Hola Andres, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 14:6
+Phone Number: +573134816011
+Image: reportes_asesores\Cristian.jpg
+Caption: Hola Cristian, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 14:6
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Hola Andres, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 14:7
+Phone Number: +573134816011
+Image: reportes_asesores\Cristian.jpg
+Caption: Hola Cristian, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 14:8
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Hola Andres, este es tu reporte de facturas con estado 'recogen' 📄
+--------------------
+Date: 23/4/2025
+Time: 15:19
+Phone Number: +573134816011
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:20
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:30
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:31
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:33
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:33
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:35
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:36
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:56
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:56
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:58
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 15:59
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:0
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:1
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:3
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:3
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:20
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:20
+Phone Number: +573205104637
+Image: reportes_asesores\Andres.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:23
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_1.jpg
+Caption: 📄 Página 1 del reporte de facturas de Andres.Por favor verificar las facturas pendientes. Gracias.
+--------------------
+Date: 23/4/2025
+Time: 16:24
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_2.jpg
+Caption: 📄 Página 2 del reporte de facturas de Andres.Por favor verificar las facturas pendientes. Gracias.
+--------------------
+Date: 23/4/2025
+Time: 16:24
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_3.jpg
+Caption: 📄 Página 3 del reporte de facturas de Andres.Por favor verificar las facturas pendientes. Gracias.
+--------------------
+Date: 23/4/2025
+Time: 16:31
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_1.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado. Por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:32
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_2.jpg
+Caption: 📄 Página 2
+--------------------
+Date: 23/4/2025
+Time: 16:32
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_3.jpg
+Caption: 📄 Página 3
+--------------------
+Date: 23/4/2025
+Time: 16:40
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_1.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado. Por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:40
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_2.jpg
+Caption: 📄 Página 2
+--------------------
+Date: 23/4/2025
+Time: 16:41
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_3.jpg
+Caption: 📄 Página 3
+--------------------
+Date: 23/4/2025
+Time: 16:50
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_1.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado. Por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:50
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_2.jpg
+Caption: 📄 Página 2
+--------------------
+Date: 23/4/2025
+Time: 16:51
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_3.jpg
+Caption: 📄 Página 3
+--------------------
+Date: 23/4/2025
+Time: 16:56
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_1.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado. Por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 16:56
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_2.jpg
+Caption: 📄 Página 2
+--------------------
+Date: 23/4/2025
+Time: 16:57
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_3.jpg
+Caption: 📄 Página 3
+--------------------
+Date: 23/4/2025
+Time: 17:18
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian_pagina_1.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 17:18
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian_pagina_2.jpg
+Caption: Página 2
+--------------------
+Date: 23/4/2025
+Time: 17:19
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian_pagina_3.jpg
+Caption: Página 3
+--------------------
+Date: 23/4/2025
+Time: 17:19
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_1.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 17:20
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_2.jpg
+Caption: Página 2
+--------------------
+Date: 23/4/2025
+Time: 17:20
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_3.jpg
+Caption: Página 3
+--------------------
+Date: 23/4/2025
+Time: 17:24
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian_pagina_1.jpg
+Caption: Buenas tardes Cristian. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 17:25
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian_pagina_2.jpg
+Caption: Página 2
+--------------------
+Date: 23/4/2025
+Time: 17:25
+Phone Number: +573026592764
+Image: reportes_asesores\Cristian_pagina_3.jpg
+Caption: Página 3
+--------------------
+Date: 23/4/2025
+Time: 17:26
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_1.jpg
+Caption: Buenas tardes Andres. Le informo que NO tengo estas facturas de venta a crédito firmadas, tampoco las han cancelado, por favor me ayuda con el seguimiento y gestión con esas facturas para que no tengamos inconvenientes con el cliente después, gracias. 📄
+--------------------
+Date: 23/4/2025
+Time: 17:26
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_2.jpg
+Caption: Página 2
+--------------------
+Date: 23/4/2025
+Time: 17:27
+Phone Number: +573205104637
+Image: reportes_asesores\Andres_pagina_3.jpg
+Caption: Página 3
+--------------------
